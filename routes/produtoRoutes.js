@@ -1,3 +1,4 @@
+import ProdutoController from '../controllers/ProdutoController.js';
 import express from 'express';
 import {
   getAllProdutos,
